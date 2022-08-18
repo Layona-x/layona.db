@@ -68,3 +68,8 @@ db.on("ready",console.log("Hazırım")) //Konsola Hazırım Yazdırır
 db.on("ready",db.add("layona","db")) //Database'e Kayıt İşlemi Uygular
 ```
 
+# Npm
+
+<a href="https://www.npmjs.com/package/layon.db">Npm Linki</a>
+<p>Developed By <a style="color:ORANGE" href="https://discord.com/users/920315243106795570">Layona-x</a>
+<li>Basit Bir Json Modülüdür Geliştiriliyor</li>
